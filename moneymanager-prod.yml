@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to MoneyManager related local prod APIs "
+  message: "Welcome to MoneyManager related local production APIs "
   contactDetails:
     name: "Prod - Developer"
     email: "prod@eazybank.com"
